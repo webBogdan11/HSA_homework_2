@@ -1,7 +1,24 @@
-At 00:04:00 and 00:07:00, the test was run with 5000 requests and 100 concurrency.
+## Test details
 
-Here images of grafana dashboards of Docker containers:
+Endpoint: /api/combined
 
-![Grafana Dashboard](docs/image_1.jpeg)
+Requests: 5000
+Concurrency: 100
 
-![Grafana Dashboard](docs/image_2.jpeg)
+Duration: 19.522 seconds
+
+## Results
+
+- Requests per Second: 256.12 req/sec
+- Time per Request: 390.439 ms
+- Time per Request (across all concurrent requests): 3.904 ms
+- Transfer rate: 263.13 KB/sec
+
+
+Here images of grafana dashboards of Docker containers, MongoDB, Elasticsearch:
+
+![MongoDB](docs/mongodb.png)
+
+![Elasticsearch](docs/elasticsearch.png)
+
+![Docker](docs/docker.png)
