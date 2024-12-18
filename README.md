@@ -17,7 +17,7 @@ Duration: 19.522 seconds
 
 Here images of grafana dashboards of Docker containers, MongoDB, Elasticsearch:
 
-![MongoDB](docs/mongodb.jpeg)
+![MongoDB](docs/mongo.jpeg)
 
 ![Elasticsearch](docs/elasticsearch.jpeg)
 
